@@ -1,4 +1,4 @@
-package ru.nikishechkin.factory;
+package ru.nikishechkin.patterns.factory;
 
 public class FactorySecondImpl extends Factory {
     public Product createProduct() {

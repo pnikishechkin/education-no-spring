@@ -1,4 +1,4 @@
-package ru.nikishechkin.facade;
+package ru.nikishechkin.patterns.facade;
 
 public class FirstDevice {
     public void turnSound() {

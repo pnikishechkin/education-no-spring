@@ -1,4 +1,4 @@
-package ru.nikishechkin.decorator;
+package ru.nikishechkin.patterns.decorator;
 
 public abstract class ComponentDecorator implements Component {
     protected final Component delegate;

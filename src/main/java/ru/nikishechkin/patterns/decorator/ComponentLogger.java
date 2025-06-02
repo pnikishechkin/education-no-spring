@@ -1,4 +1,4 @@
-package ru.nikishechkin.decorator;
+package ru.nikishechkin.patterns.decorator;
 
 public class ComponentLogger extends ComponentDecorator {
 

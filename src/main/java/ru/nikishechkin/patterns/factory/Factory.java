@@ -1,4 +1,4 @@
-package ru.nikishechkin.factory;
+package ru.nikishechkin.patterns.factory;
 
 public abstract class Factory {
     public abstract Product createProduct();
